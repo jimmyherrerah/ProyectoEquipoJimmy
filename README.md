@@ -26,13 +26,7 @@ Espress
 
 ## CONTRIBUIDORES
 
-Abdias E. Alvarado / abdias-alvarado
-
-Mario Chapas / mfchapas
-
-Maria J. Pagoaga / mariajpapo
-
-Noe Paz / noe-paz
+Broderick jayson perez
 
 
 ## VERSIÓN
